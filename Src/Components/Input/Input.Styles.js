@@ -21,7 +21,7 @@ export default {
     Secondary: StyleSheet.create({
         container: {
             ...baseStyles.container,
-            backgroundColor:Color.Blue,
+            backgroundColor:Color.Green,
         }
     })
 }
